@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 배우고 있는 과정 :
   
-- 💬 연락처 : 
+- 💬 연락처 :
+
