@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=slice&height=303&color=gradient&text=Welcome%20to%20my%20GitHub🎈&reversal=false&fontAlign=52&textBg=false&fontAlignY=47&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=303&color=gradient&text=Welcome%20to%20my%20GitHub🎈&reversal=false&fontAlign=52&textBg=false&fontAlignY=47&animation=fadeIn"/>
 </p>
 - 🌱 이    름 : _이경민 (lee kyeong Min)_
 
