@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 배우고 있는 과정 :
   
 - 💬 연락처 : 
-
+<!--
 <p align='center'>
   <a href="https://github.com/leekminx">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=Hugo's%20Lecture%20Repository&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekminx&theme=tokyonight&layout=compact"/>
   </a>
 </p>
-
+-->
 ## Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
