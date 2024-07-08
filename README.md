@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 |Visual Studio Code|Python 개발, Spring Boot 개발|
 |Oracle 21C| Database 기본학습 |
 -->
-
+<!--
 ## Project List
 - [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/basic-python-2024)
 - [Python 미니프로젝트] [미니프로젝트](https://github.com/hugoMGSung/miniprojects/tree/main/part1)
 - [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
-
+-->
  
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
