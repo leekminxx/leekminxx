@@ -19,20 +19,13 @@ Here are some ideas to get you started:
 
 - 🔭 배우고 있는 과정 :
   
-- 💬 연락처 :
+- 💬 연락처 : 
 
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=Hugo's%20Lecture%20Repository&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
   </a>
 </p>
-
-## Profile
-- Name : Hugo MG. Sung (Korean Name : Sung Myung Gun)
-- Email : personar95@naver.com
-- 🔭 I’m currently working on ICT Leturer
-  - major - Smart Factory, IoT System Dev, ASP.NET Core
-  - minor - Python, Spring Boot
 
 ## GitHub Stat and Languages
 <p align='center'>
@@ -41,10 +34,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
 </p>
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=hugoMGSung&theme=onedark)](https://github.com/hugoMGSung)
--->
 
 ## Using Languages
 <p align='left'>
