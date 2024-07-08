@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stat and Languages
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/leekminx">
     <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
